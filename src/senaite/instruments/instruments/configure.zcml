@@ -79,5 +79,4 @@
     factory=".pedeltalactoscope.pedeltalactoscope.pedeltalactoscopeimport"
     provides="bika.lims.exportimport.instruments.IInstrumentImportInterface"/>
 
-
 </configure>
